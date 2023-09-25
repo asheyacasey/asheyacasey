@@ -7,6 +7,7 @@
 ### I'll always have a soft spot for design. The space between development and design is where I thrive.
 
 <br>
+
 - 👩‍💻 &nbsp;I’m a UI/UX Designer and Front-end developer.
 - 📍  &nbsp;I’m from Cebu, Philippines.
 - 🔭 &nbsp;I’m currently working on something cool :wink:
