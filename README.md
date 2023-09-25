@@ -7,8 +7,8 @@
 <br>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning NextJS
-- ⚡ &nbsp;Fun fact: I'll never leave home without my earphones! 
+- 🌱 &nbsp;I’m currently learning NextJS Framework 🌌
+- ⚡ &nbsp;Fun fact: I'm Kelly Kapoor
 
 Let's be moots on spotify!
 <div><img src="https://spotify-github-profile.vercel.app/api/view?uid=n1u07dmxef12xfwszf2tzkeqe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
