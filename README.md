@@ -1,4 +1,4 @@
-## Hey! I'm Ashy, a front-end developer and UI/UX designer based in Cebu, Philippines 🚀  
+### Hey! I'm Ashy, a front-end developer and UI/UX designer based in Cebu, Philippines 🚀  
 
 <div align="center">
 <img src="https://media.workandmoney.com/29/14/2914a34f201f4b30b4252586c2620862.gif" align="center" style="width: 100%" />
