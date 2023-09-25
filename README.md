@@ -3,6 +3,7 @@
 <div>
 <img src="https://media.workandmoney.com/29/14/2914a34f201f4b30b4252586c2620862.gif" align="center" style="width: 100%" />
 </div>  
+<br>
 
 <p text="bold">I'll always have a soft spot for design. The space between development and design is where I thrive.</p>
 
