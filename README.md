@@ -9,7 +9,7 @@
 <br>
 
 - 👩‍💻 &nbsp;I’m a UI/UX Designer and Front-end developer.
-- 📍   &nbsp;I’m from Cebu, Philippines.
+- 📍  &nbsp;I’m from Cebu, Philippines.
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning NextJS Framework 🌌
 - ⚡ &nbsp;Fun fact: I'm Kelly Kapoor. 🙋‍♀️
