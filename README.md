@@ -1,12 +1,14 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
+<div align="center">
+<img src="https://media.workandmoney.com/29/14/2914a34f201f4b30b4252586c2620862.gif" align="center" style="width: 100%" />
+</div>  
+### Hey! I'm Ashy, a front-end developer and UI/UX designer based in Cebu, Philippines 🚀  
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning NextJS
 - ⚡ &nbsp;Fun fact: I'll never leave home without my earphones! 
 
 Let's be moots on spotify!
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n1u07dmxef12xfwszf2tzkeqe&width={width})
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n1u07dmxef12xfwszf2tzkeqe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <p align="left">Connect with me:</p>
 <p align="left">
