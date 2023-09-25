@@ -4,7 +4,7 @@
 <img src="https://media.workandmoney.com/29/14/2914a34f201f4b30b4252586c2620862.gif" align="center" style="width: 100%" />
 </div>  
 
-
+<br>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning NextJS
