@@ -1,14 +1,17 @@
-### Hey! I'm Ashy, a front-end developer and UI/UX designer based in Cebu, Philippines 🚀  
+# Hey, I'm Ash! 🚀  
 
 <div>
 <img src="https://media.workandmoney.com/29/14/2914a34f201f4b30b4252586c2620862.gif" align="center" style="width: 100%" />
 </div>  
 
-<br>
+### I'll always have a soft spot for design. The space between development and design is where I thrive.
 
+<br>
+- 👩‍💻 &nbsp;I’m a UI/UX Designer and Front-end developer.
+- 📍  &nbsp;I’m from Cebu, Philippines.
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning NextJS Framework 🌌
-- ⚡ &nbsp;Fun fact: I'm Kelly Kapoor
+- ⚡ &nbsp;Fun fact: I'm Kelly Kapoor. 🙋‍♀️
 
 Let's be moots on spotify!
 <div><img src="https://spotify-github-profile.vercel.app/api/view?uid=n1u07dmxef12xfwszf2tzkeqe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
