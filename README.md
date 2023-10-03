@@ -1,5 +1,3 @@
-# Ashe 🚀  
-
 **`Front-End Developer | UI/UX Designer`**  
 
 Hello! I'm a dedicated developer on a mission to craft and deliver high-quality projects and products that leave a positive mark on the tech industry. My core expertise lies in JavaScript, with a particular emphasis on React and Next.js.
