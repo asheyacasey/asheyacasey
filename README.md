@@ -4,7 +4,7 @@ Hello! I'm a dedicated developer on a mission to craft and deliver high-quality 
 
 Recently, I've been driving myself to learn more about UX Research, with the overarching objective of developing projects that excel in SEO optimization and offer exemplary user experiences.
 
-<h2>🧰 Languages and tools</h2>
+<h3>Languages and tools</h3>
 
 <img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
